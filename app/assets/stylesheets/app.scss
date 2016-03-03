@@ -61,4 +61,9 @@ $light-blue: #3498DB;
 .inline-block{
 	float: none !important;
 	display:inline-block;
+	vertical-align:middle;
+}
+/*Tamaños*/
+.ultra-big{
+	font-size:7em;
 }

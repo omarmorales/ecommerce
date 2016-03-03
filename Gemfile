@@ -28,7 +28,7 @@ gem "devise"
 #HAML para crear un mejor HTML
 gem "haml-rails"
 #Gema de bootstrap
-gem "bootstrap-sass"
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 #Tema Material Design para bootstrap
 gem "bootstrap-material-design"
 # Use ActiveModel has_secure_password
