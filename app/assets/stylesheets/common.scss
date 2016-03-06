@@ -59,6 +59,10 @@ $light-blue: #3498DB;
 .no-padding{
 	padding:0;
 }
+/* Márgenes */
+.top-space{
+	margin-top:1em;	
+}
 /* Alineamiento */
 .no-float{
 	float: none !important;
@@ -68,7 +72,24 @@ $light-blue: #3498DB;
 	display:inline-block;
 	vertical-align:middle;
 }
+.absolute{
+	position:absolute;
+}
 /*Tamaños*/
+.small{
+	font-size:12px;
+}
+.medium{
+	font-size:1.5em;
+}
+.big{
+	font-size:3em;
+}
+.bigger{
+	font-size:4em;
+}
 .ultra-big{
 	font-size:7em;
 }
+
+
