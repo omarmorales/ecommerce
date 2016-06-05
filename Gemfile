@@ -31,6 +31,8 @@ gem "haml-rails"
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 #Tema Material Design para bootstrap
 gem "bootstrap-material-design"
+#paperclip para subir imagenes
+gem 'paperclip'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
